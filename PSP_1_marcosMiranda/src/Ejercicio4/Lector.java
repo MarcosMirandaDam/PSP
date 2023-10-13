@@ -23,6 +23,8 @@ public class Lector {
 			
 			while((lectura=entrada.readLine())!=null) {
 				System.out.println(lectura);
+				
+				
 			}
 			
 			
