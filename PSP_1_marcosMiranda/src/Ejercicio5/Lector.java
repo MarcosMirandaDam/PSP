@@ -23,27 +23,19 @@ public class Lector {
 
 		String lectura = null;
 
-		String[] miArray = new String[10]; // almacenamos los datos en un array
-		int contador = 0; // para llevar registro de la cantidad de elementos añadidos
-
 		try {
 			canal = new Socket("localHost", 13);
 			entrada = new BufferedReader(new InputStreamReader(canal.getInputStream()));
-
-			while ((lectura = entrada.readLine()) != null) {
-				miArray[contador] = lectura;
-				contador++;
-			}
-
-			System.out.println("Introduzca el número deseado para realizar la tabla de multiplicar:");		
+			
+			System.out.println("Introduzca el número deseado para realizar la tabla de multiplicar:");					//pedimos numero
 			int numeroDeseado=sc.nextInt();
-			for (int i = 0; i < contador; i++) {
-
-				System.out.println(+Integer.parseInt(miArray[i]) + " X "+numeroDeseado+ " = " + Integer.parseInt(miArray[i]) * numeroDeseado); // multiplicamos
-																													// por
-																													// 5
+			
+			while ((lectura = entrada.readLine()) != null) {
+				System.out.println(lectura+ " X " +numeroDeseado+ " = " +numeroDeseado*Integer.valueOf(lectura));		//multiplicamos por numero
+				
 			}
 
+			
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
