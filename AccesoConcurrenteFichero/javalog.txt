@@ -1,0 +1,124 @@
+Creado el proceso 1
+Creado el proceso 2
+Creado el proceso 3
+Creado el proceso 4
+Creado el proceso 5
+Creado el proceso 6
+Creado el proceso 7
+Creado el proceso 8
+Creado el proceso 9
+Creado el proceso 10
+Creado el proceso 11
+Creado el proceso 12
+Proceso 1 Bloqueando acceso a fichero
+Proceso 1 creando  fichero
+Proceso 1 liberando acceso a fichero
+Creado el proceso 13
+Creado el proceso 14
+Creado el proceso 15
+Creado el proceso 16
+Proceso 2 Bloqueando acceso a fichero
+Proceso 2 lee el dato : 1
+Proceso 2 escribe el dato : 2
+Proceso 2 liberando acceso a fichero
+Proceso 4 Bloqueando acceso a fichero
+Creado el proceso 17
+Proceso 4 lee el dato : 2
+Proceso 4 escribe el dato : 3
+Proceso 4 liberando acceso a fichero
+Proceso 3 Bloqueando acceso a fichero
+Proceso 3 lee el dato : 3
+Proceso 3 escribe el dato : 4
+Proceso 3 liberando acceso a fichero
+Proceso 5 Bloqueando acceso a fichero
+Proceso 5 lee el dato : 4
+Proceso 5 escribe el dato : 5
+Proceso 5 liberando acceso a fichero
+Proceso 6 Bloqueando acceso a fichero
+Proceso 6 lee el dato : 5
+Proceso 6 escribe el dato : 6
+Proceso 6 liberando acceso a fichero
+Creado el proceso 18
+Proceso 9 Bloqueando acceso a fichero
+Proceso 9 lee el dato : 6
+Proceso 9 escribe el dato : 7
+Proceso 9 liberando acceso a fichero
+Proceso 7 Bloqueando acceso a fichero
+Creado el proceso 19
+Proceso 7 lee el dato : 7
+Proceso 7 escribe el dato : 8
+Proceso 7 liberando acceso a fichero
+Proceso 8 Bloqueando acceso a fichero
+Proceso 8 lee el dato : 8
+Proceso 8 escribe el dato : 9
+Proceso 8 liberando acceso a fichero
+Proceso 10 Bloqueando acceso a fichero
+Proceso 10 lee el dato : 9
+Proceso 10 escribe el dato : 10
+Proceso 10 liberando acceso a fichero
+Creado el proceso 20
+Proceso 11 Bloqueando acceso a fichero
+Proceso 11 lee el dato : 10
+Proceso 11 escribe el dato : 11
+Proceso 11 liberando acceso a fichero
+Proceso 14 Bloqueando acceso a fichero
+Proceso 14 lee el dato : 11
+Proceso 14 escribe el dato : 12
+Proceso 14 liberando acceso a fichero
+Creado el proceso 21
+Proceso 13 Bloqueando acceso a fichero
+Proceso 13 lee el dato : 12
+Proceso 13 escribe el dato : 13
+Proceso 13 liberando acceso a fichero
+Proceso 12 Bloqueando acceso a fichero
+Proceso 12 lee el dato : 13
+Proceso 12 escribe el dato : 14
+Proceso 12 liberando acceso a fichero
+Creado el proceso 22
+Creado el proceso 23
+Creado el proceso 24
+Proceso 16 Bloqueando acceso a fichero
+Proceso 16 lee el dato : 14
+Proceso 16 escribe el dato : 15
+Proceso 16 liberando acceso a fichero
+Proceso 15 Bloqueando acceso a fichero
+Proceso 15 lee el dato : 15
+Proceso 15 escribe el dato : 16
+Proceso 15 liberando acceso a fichero
+Creado el proceso 25
+Proceso 17 Bloqueando acceso a fichero
+Proceso 17 lee el dato : 16
+Proceso 17 escribe el dato : 17
+Proceso 17 liberando acceso a fichero
+Proceso 18 Bloqueando acceso a fichero
+Proceso 18 lee el dato : 17
+Proceso 18 escribe el dato : 18
+Proceso 18 liberando acceso a fichero
+Proceso 19 Bloqueando acceso a fichero
+Proceso 19 lee el dato : 18
+Proceso 19 escribe el dato : 19
+Proceso 19 liberando acceso a fichero
+Proceso 21 Bloqueando acceso a fichero
+Proceso 21 lee el dato : 19
+Proceso 21 escribe el dato : 20
+Proceso 21 liberando acceso a fichero
+Proceso 20 Bloqueando acceso a fichero
+Proceso 20 lee el dato : 20
+Proceso 20 escribe el dato : 21
+Proceso 20 liberando acceso a fichero
+Proceso 22 Bloqueando acceso a fichero
+Proceso 22 lee el dato : 21
+Proceso 22 escribe el dato : 22
+Proceso 22 liberando acceso a fichero
+Proceso 24 Bloqueando acceso a fichero
+Proceso 24 lee el dato : 22
+Proceso 24 escribe el dato : 23
+Proceso 24 liberando acceso a fichero
+Proceso 23 Bloqueando acceso a fichero
+Proceso 23 lee el dato : 23
+Proceso 23 escribe el dato : 24
+Proceso 23 liberando acceso a fichero
+Proceso 25 Bloqueando acceso a fichero
+Proceso 25 lee el dato : 24
+Proceso 25 escribe el dato : 25
+Proceso 25 liberando acceso a fichero
